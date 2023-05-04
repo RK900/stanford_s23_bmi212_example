@@ -1,5 +1,7 @@
 # inscrutable mandelbrot plotting code
 # try running with 800 1000
+#The purpose of this program is to plot the mandelbrot set
+
 import mahotas
 import pylab
 import numpy as np
