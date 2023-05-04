@@ -1,0 +1,4 @@
+mahotas
+pylab
+numpy
+matplotlib
