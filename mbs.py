@@ -40,3 +40,4 @@ plt.imsave('out.jpg', mandelbrot(int(sys.argv[1]), int(sys.argv[2])), cmap='magm
 m = mahotas.imread('out.jpg')
 pylab.imshow(m)
 pylab.show()
+print('done')
